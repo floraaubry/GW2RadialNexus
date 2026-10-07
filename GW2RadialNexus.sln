@@ -1,0 +1,31 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GW2RadialNexus", "GW2RadialNexus.vcxproj", "{2C6F0B1A-9E3B-4C6C-9C3A-8D8D6F1A0B2E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GW2Common", "extern\GW2Common\GW2Common.vcxproj", "{1AD7929B-FE1E-4FA2-BE57-DF9B0FC1526D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C6F0B1A-9E3B-4C6C-9C3A-8D8D6F1A0B2E}.Debug|x64.ActiveCfg = Debug|x64
+		{2C6F0B1A-9E3B-4C6C-9C3A-8D8D6F1A0B2E}.Debug|x64.Build.0 = Debug|x64
+		{2C6F0B1A-9E3B-4C6C-9C3A-8D8D6F1A0B2E}.Release|x64.ActiveCfg = Release|x64
+		{2C6F0B1A-9E3B-4C6C-9C3A-8D8D6F1A0B2E}.Release|x64.Build.0 = Release|x64
+		{1AD7929B-FE1E-4FA2-BE57-DF9B0FC1526D}.Debug|x64.ActiveCfg = Debug|x64
+		{1AD7929B-FE1E-4FA2-BE57-DF9B0FC1526D}.Debug|x64.Build.0 = Debug|x64
+		{1AD7929B-FE1E-4FA2-BE57-DF9B0FC1526D}.Release|x64.ActiveCfg = Release|x64
+		{1AD7929B-FE1E-4FA2-BE57-DF9B0FC1526D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B2E9F3A-4C1D-4E7A-9B5A-3F2C8D1E7A6B}
+	EndGlobalSection
+EndGlobal
